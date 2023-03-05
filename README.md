@@ -68,7 +68,6 @@ There is no error handling on the payload of the "write" messages, data received
 ## Test board shown in the video
 
 ## Node-Red
-There is an example Node-Red flow (also shown in the video), which shows how to communicate with the device from Node-Red. The flow is in Gitbuh, and also here: https://flows.nodered.org/flow/286a8cea2fbb2a60544f0dd2faefda2a
 
 ## PCB
 
